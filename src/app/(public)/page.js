@@ -32,9 +32,9 @@ export default function Dashboard() {
         <div className='flex w-full bg-white rounded-xl '>
           <div className="flex-1 p-10">
             <div className="font-extrabold text-[48px] mt-10">
-              <div>I&lsquo;m Hidayat Nur Wahid</div>
+              <div>I&lsquo;m Ahmad Zaki</div>
               <div>
-                <span className="text-[#FFB400]">Front-end</span> Developer 
+                <span className="text-[#FFB400]">Back end</span> Developer 
               </div>
             </div>
             <p className="text-[#767676]">Saya adalah mahasiswa aktif di Politeknik LP3I Jakarta, jurusan manajemen informatika.</p>
